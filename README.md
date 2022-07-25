@@ -1,8 +1,7 @@
 # Build a Responsive Nav using mainly JavaScript!
 
-With a better understanding of JavaScript, I decided play around and see if I could create
-a nav with the bare minimum of HTML and CSS.  I inadvertantly learned even more in this process, 
-which is another thing I was hoping to accomplish.
+I decided play around and create
+a nav with the bare minimum of HTML and CSS.
 <br>
 <br>
 Not only is the Nav bar responsive, but you can also add/remove Nav items simply altering the parameters
@@ -366,7 +365,6 @@ createNav(
 ```
 <br>
 And NOW we're done.  With that you have a convoluted way of building out a Nav if ever you decided it was something you just HAD to do...<br>
-Truth be told I only did it this way to see if I could.  And I can... and also now you can.
 <br>
 <br>
 
